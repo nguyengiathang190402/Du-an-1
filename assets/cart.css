@@ -1,0 +1,54 @@
+.wrapper{
+    background-color: #ffffff;
+}
+a{
+    text-decoration: none;
+}
+.cart__img{
+    width:100px;
+    padding-left:20px;
+}
+li a{
+    color:black;
+}
+
+.cart__name{
+    font-size:16px;
+    color:black;
+    font-weight: 16px;
+   padding-top: 20px;
+}
+.cart__quantity input{
+width:50px;
+padding-left: 3px;
+margin-left:5px;
+border: 1px solid black;
+}
+.pd{
+    position: relative;
+    left:975px;
+    bottom:90px;
+}
+.cart_sum > span{
+    color:#ff6638;
+    font-size: 14px;
+    font-weight: 500;
+}
+.cart__final span{
+    color:#ff6638;
+    padding-left: 32px;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.sum{
+    position: relative;
+    bottom:110px;
+    left:980px;
+}
+.sum div{
+    padding-bottom: 10px;
+}
+.auth a{
+    color:black;
+}

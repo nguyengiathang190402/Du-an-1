@@ -1,0 +1,18 @@
+.wrapper{
+    background-color: #ffffff;
+}
+.container{
+   background-color: #ffffff;
+}
+h1{
+    font-size:20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.contact__information p{
+   margin-bottom: 15px;
+   word-wrap: break-word;
+}
+.contact__information ul li {
+    padding-bottom:10px;
+}
